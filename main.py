@@ -186,6 +186,8 @@ num1 = 7.5
 num2 = 2.5
 sum_of_2= num1+num2
 print(sum_of_2)
+
+########################
 #################################Data Type conversions####################
 # slides 12 -19
 # Data Type Conversions Practice #1
